@@ -1,0 +1,102 @@
+.outer{
+    height:800px;
+    width:800px;
+    border:1px solid black;
+    float: left;
+}
+.red{
+    height:300px;
+    width:300px;
+    background-color: rgb(211, 61, 61);
+    float: left;
+}
+.redright{
+    height: 300px;
+    width:200px;
+    float: left;
+   
+}
+.green{
+    height:300px;
+    width:300px;
+    background-color: rgb(40, 163, 79);
+    float: left;
+}
+.redbottom{
+    height: 200px;
+    width:300px;
+    float: left;
+    
+}
+.center{
+    height:200px;
+    width:200px;
+    float: left;
+    background-color: rgb(186, 85, 160);
+    text-align: center;
+
+}
+.greenbottom{
+    height: 200px;
+    width:300px;
+    float: left;
+  
+}
+.blue{
+    height:300px;
+    width:300px;
+    background-color: rgb(76, 66, 196);
+    float: left;
+}
+.blueright{
+    height: 300px;
+    width:200px;
+    float: left;
+
+}
+.yellow{
+    height:300px;
+    width:300px;
+    background-color: rgb(173, 197, 69);
+    float: left;
+}
+.box{
+    height:50px;
+    width:65px;
+    float:left;
+    border:1px solid black;
+}
+.box2{
+    height:65px;
+    width:48.4px;
+    float:left;
+    border:1px solid black;
+}
+.gola{
+    height:70px;
+    width:70px;
+    float:left;
+    background-color: rgb(249, 244, 248);
+    margin: 40px;
+    border-radius:50%;
+}
+#green-box{
+    background-color:  rgb(40, 163, 79);
+}
+#red-box{
+    background-color: rgb(211, 61, 61);
+}
+#yellow-box{
+    background-color: rgb(173, 197, 69);
+}
+#blue-box{
+    background-color: rgb(76, 66, 196);
+}
+.center-trg{
+    height:0px;
+    width:0;
+    border-top:100px solid  rgb(40, 163, 79);
+    border-left:100px solid rgb(211, 61, 61);
+    border-right:100px solid  rgb(173, 197, 69);
+    border-bottom:100px solid  rgb(76, 66, 196);
+}
